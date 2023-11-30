@@ -1,8 +1,6 @@
 #!/usr/bin/python3
-form variable_load_5 import a
+if __name__ == "__main__"
 
-def assign_var():
-    print(a)
+from variable_load_5 import a
+print("{}".format(a))
 
-if __name__ = "__main__":
-    assign_var()
