@@ -12,7 +12,7 @@ if  __name__ == "__main__":
         print("Unknown operator. Available operators: +, -, * and /")
         sys.exit(1)
 
-    form calculator_1 import add, sub, mul, div
+    from calculator_1 import add, sub, mul, div
     a = int(sys.argv[1])
     b = int(sis.argv[3])
 
